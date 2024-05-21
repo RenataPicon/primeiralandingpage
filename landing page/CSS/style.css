@@ -1,0 +1,22 @@
+*{
+    background-color: antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    
+}
+
+#titulo-principal{
+    color: darkslategrey;
+    background-color: rgb(213, 224, 173);
+}
+
+#titulo-secundario{
+    color: rgb(82, 59, 16);
+    background-color: rgb(252, 250, 250);
+}
+
+p{
+    text-align: justify;
+    margin: 25px;
+    color: black;
+}
